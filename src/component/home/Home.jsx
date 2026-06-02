@@ -28,7 +28,10 @@ export const Home = () => {
               </p>
 
               <p className="home__text">
-              Full-Stack Software Engineer with 5+ years of experience specializing in Laravel backend development, RESTful API design, and complex database architecture, complemented by hands-on expertise in modern front-end frameworks including Vue.js, Nuxt.js, and React.
+              Full-Stack Software Engineer with 5+ years of experience in front-end development
+of modern, scalable, and high-performance web and mobile applications, Proven
+expertise in building responsive, cross-platform interfaces with strong command of
+state management, component architecture, and performance optimization.
               </p>
               <div className="home__social">
                 <a

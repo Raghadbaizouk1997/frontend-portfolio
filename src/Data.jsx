@@ -78,94 +78,95 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: "PHP | Laravel",
+    name: "Vue.js | Nuxt | Vuetify | Vuex.",
     percentage: 90,
   },
   {
     id: 2,
-    name: "Asp.net",
-    percentage: 50,
+    name: "React | Redux",
+    percentage: 80,
   },
   {
     id: 3,
-    name: "MVC | OOP | Design Patterns",
-    percentage: 90,
+    name: "Angular | React | Redux ",
+    percentage: 50,
   },
   {
     id: 4,
-    name: "Authentication | Authorization",
+    name: "Tailwind | Bootstrap | Material UI | Ant Design",
     percentage: 70,
   },
   {
     id: 5,
-    name: "Api  Integrations | Caching",
+    name: "JavaScript | TypeScript | JQuery",
     percentage: 80,
   },
   {
     id: 6,
-    name: "Payment Gateway Integration",
-    percentage: 70,
+    name: "PHP | Laravel | Redis",
+    percentage: 90,
   },
   {
     id: 7,
-    name: "Queue System",
-    percentage: 80,
+    name: "Asp.net",
+    percentage: 60,
   },
   {
     id: 8,
-    name: "Redis",
-    percentage: 60,
-  },
-  {
-    id: 9,
-    name: "JavaScript, TypeScript",
-    percentage: 85,
-  },
-  {
-    id: 10,
-    name: "Vue.js, Nuxt, Vuetify",
-    percentage: 50,
-  },
-  {
-    id: 11,
-    name: " React | Redux",
-    percentage: 60,
-  },
-  {
-    id: 12,
-    name: "Angular",
+    name: "NodeJs",
     percentage: 40,
   },
   {
-    id: 13,
-    name: "AWS | VPS | Docker | CI/CD",
-    percentage: 50,
+    id: 9,
+    name: "Rest APIs | JSON | API Integration",
+    percentage: 70,
   },
   {
-    id: 14,
-    name: "GIT",
+    id: 10,
+    name: "MySQL | Oracle | MongoDB",
     percentage: 80,
   },
   {
+    id: 11,
+    name: "WordPress | Shopify | Zoho.",
+    percentage: 90,
+  },
+  {
+    id: 12,
+    name: "SEO Optimization",
+    percentage: 85,
+  },
+  {
+    id: 13,
+    name: "AWS | VPS | CI/CD | Azura | Server Deployment",
+    percentage: 60,
+  },
+  {
+    id: 14,
+    name: "Agile | Scrum | Jira",
+    percentage: 60,
+  },
+  {
     id: 15,
-    name: "Wordpress",
+    name: "Git",
     percentage: 80,
   },
   {
     id: 16,
-    name: "Shopify",
-    percentage: 50,
+    name: "AI Automation",
+    percentage: 40,
   },
   {
     id: 17,
-    name: "Jira",
-    percentage: 50,
+    name: "ReactNative",
+    percentage: 40,
   },
   {
-    id: 18,
-    name: "AI Automation",
-    percentage: 50,
+    id: 17,
+    name: "ReactNative",
+    percentage: 40,
   },
+
 ];
 
 export const projects = [
@@ -300,14 +301,11 @@ export const cv = [
     subtitle: "Cyber Automotive Solutions",
     date: "March 2025 - ongoing",
     description:
-      "Developed and maintained RESTful APIs using Laravel for 3+ production applications.",
+      "Architected and built a full-scale ERP front-end using Vue.js / Nuxt.js covering Inventory, Purchasing, Sales Orders, Accounting, HR, and Reporting modules.",
     description1:
-      "Designed and developed scalable Laravel REST APIs for ERP modules.",
+      "Designed modular, reusable component libraries ensuring consistent UI across all ERP modules.",
     description2:
-      "Built complex business logic for Inventory, Repair Orders, Accounting, HR, Reporting",
-    description3:
-      "Optimized database queries and relationships, Query Optimization, Indexing",
-    description4: "Integrated frontend using Vue/Nuxt",
+      "Integrated Vue/Nuxt front-end with scalable Laravel REST APIs, handling complex business logic and real-time data updates.",
     category: "experience",
   },
   {
@@ -316,17 +314,17 @@ export const cv = [
     subtitle: "Alkhaaldi / TechnoCode",
     date: "May 2023 -  March 2025",
     description:
-      "Developed and maintained RESTful APIs using Laravel for 3+ production applications",
+      "Developed and maintained RESTful APIs using Laravel for 3+ production applications.",
     description1:
       "Integrated React/Vue.js front-end applications with Laravel backend services",
     description2:
-      "Integrate front-end applications with Laravel APIs and backend services",
+      "Integrate with third party (twilio, msg1, firebase,payment Gateway).",
     description3:
-      "Integrate with third party (twilio, msg1, firebase, payment Gateway)",
-    description4:
       "Designed and optimized complex database schemas and relationships",
+    description4:
+      "Built dynamic filtering and search systems with advanced query optimization.",
     description5:
-      "Built dynamic filtering and search systems with advanced query optimization; created 5+ custom WordPress/Shopify solutions from scratch, including theme development and plugin customization",
+      "Created 5+ custom WordPress/Shopify solutions from scratch, including theme development and plugin customization.",
     category: "experience",
   },
   {
@@ -335,11 +333,10 @@ export const cv = [
     subtitle: "EXPentech solution, syria",
     date: "July 2022 - March 2023",
     description:
-      "Developed and maintained Laravel backend services and RESTful APIs for production applications",
+      "Developed ReactJS front-end applications consuming Laravel APIs, supporting dynamic data exchange and real-time UI updates.",
     description1:
-      "Integrated ReactJS front-end applications with Laravel APIs to support dynamic data exchange",
-    description2: "Implemented core business logic, handled API responses",
-    description3: "Write clean code, fix bugs and solve problems",
+      "Implemented responsive, accessible UIs following modern HTML5/CSS3 and JavaScript (ES6+) best practices",
+    description2: "Participated in code reviews, debugging sessions, and front-end performance optimization.",
     category: "experience",
   },
   {
@@ -357,11 +354,10 @@ export const cv = [
     title: "Web Developer",
     subtitle: "Tatweer, syria",
     date: "July 2020 - July 2022",
-    description: "Design UI & integrate code for ERP system using Angular",
-    description1: "Built and maintained ERP system using ASP.NET",
+    description: "Designed and integrated front-end UI for an ERP system using Angular, collaborating directly with clients on requirements.",
+    description1: "Gained cross-framework experience in Angular that now informs scalable front-end architecture decisions",
     description2:
       "Communicate with customers, collect and discuss requirements",
-    description3: "write clean, maintainable, and efficient code.",
     category: "experience",
   },
   {
