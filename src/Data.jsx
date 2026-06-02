@@ -78,7 +78,7 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: "Vue.js | Nuxt | Vuetify | Vuex.",
+    name: "Vue.js | Nuxt | Vuetify | Vuex",
     percentage: 90,
   },
   {
@@ -88,12 +88,12 @@ export const skills = [
   },
   {
     id: 3,
-    name: "Angular | React | Redux ",
+    name: "Angular | Material UI | Ant Design ",
     percentage: 50,
   },
   {
     id: 4,
-    name: "Tailwind | Bootstrap | Material UI | Ant Design",
+    name: "Tailwind | Bootstrap ",
     percentage: 70,
   },
   {
@@ -128,7 +128,7 @@ export const skills = [
   },
   {
     id: 11,
-    name: "WordPress | Shopify | Zoho.",
+    name: "WordPress | Shopify | Zoho",
     percentage: 90,
   },
   {
@@ -138,7 +138,7 @@ export const skills = [
   },
   {
     id: 13,
-    name: "AWS | VPS | CI/CD | Azura | Server Deployment",
+    name: "AWS | VPS | CI/CD | Azura",
     percentage: 60,
   },
   {
@@ -154,11 +154,6 @@ export const skills = [
   {
     id: 16,
     name: "AI Automation",
-    percentage: 40,
-  },
-  {
-    id: 17,
-    name: "ReactNative",
     percentage: 40,
   },
   {
